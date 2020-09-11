@@ -1,2 +1,2 @@
 # jogo_cobrinha
-Jogo da cobrinha em javascritp
+Jogo da cobrinha em javascript
